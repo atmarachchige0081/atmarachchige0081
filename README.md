@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working on my FYP about underground sensor networks and time series modelling and predicting and sensor calibration and underground Communication using Lora and RF technologies<br>
 
 
