@@ -1,5 +1,5 @@
 # About Me:
-Currently working on my FYP about underground sensor networks and time series modelling and predicting and sensor calibration and underground Communication using Lora and RF technologies<br>
+Currently working on my Final Year undergraduate Project Elephant detection and tracking using underground sensor networks and time series modelling and predicting, sensor calibration and underground Communication using LoRa RF technologies and  designing AIOT devices<br>
 
 
 ## 🌐 Socials:
