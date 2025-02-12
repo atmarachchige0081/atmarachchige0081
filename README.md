@@ -1,5 +1,5 @@
 # About Me:
-Currently working on my Final Year undergraduate Project Elephant detection and tracking using underground sensor networks and time series modelling and predicting, sensor calibration and underground Communication using LoRa RF technologies and  designing AIOT devices<br>
+Intrested in modeen technologies in Electronics Robotics and embedded systems.
 
 
 ## 🌐 Socials:
