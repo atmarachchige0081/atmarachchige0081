@@ -4,7 +4,7 @@
 
 I like making machines **sense, compute, communicate and act**.
 
-My interests are mainly around **embedded systems, robotics, FPGA, computer vision and edge AI** — especially the interesting part where electronics meets software.
+My interests are mainly around **embedded systems, robotics, FPGA, computer vision and edge AI** especially the interesting part where electronics meets software.
 
 ## Currently somewhere between
 
