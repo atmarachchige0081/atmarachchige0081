@@ -1,5 +1,62 @@
-# About Me:
-Intrested in modeen technologies in Electronics Robotics and embedded systems.
+# Akitha Munasinghe
+
+### Electronic Engineer building things that live between hardware and software.
+
+I like making machines **sense, compute, communicate and act**.
+
+My interests are mainly around **embedded systems, robotics, FPGA, computer vision and edge AI** — especially the interesting part where electronics meets software.
+
+## Currently somewhere between
+
+```text
+Electronics
+    |
+    +---- Embedded Systems
+    |          |
+    |          +---- Real-Time Systems
+    |          +---- FreeRTOS
+    |          +---- STM32
+    |
+    +---- Digital Hardware
+    |          |
+    |          +---- FPGA
+    |          +---- RTL / Digital Logic
+    |
+    +---- Intelligent Systems
+               |
+               +---- Computer Vision
+               +---- Machine Learning
+               +---- TinyML
+               +---- Edge AI
+```
+
+The goal is not to collect technologies.
+
+The goal is to **make them work together**.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atmarachchige0081&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmarachchige0081&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+</p>
+
+---
+
+```text
+I don't just want to write software.
+
+I want to build the thing that runs it.
+```
+
+<p align="center">
+  <a href="https://github.com/atmarachchige0081">
+    <img src="https://img.shields.io/github/followers/atmarachchige0081?label=Followers&style=flat">
+  </a>
+  <a href="https://github.com/atmarachchige0081?tab=repositories">
+    <img src="https://img.shields.io/github/stars/atmarachchige0081?label=Stars&style=flat">
+  </a>
+</p>
 
 
 ## 🌐 Socials:
